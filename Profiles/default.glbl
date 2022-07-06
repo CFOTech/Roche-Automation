@@ -4,4 +4,19 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://131.255.5.194:4050'</initValue>
+      <name>URL_CalidadSAP</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'aa-000'</initValue>
+      <name>userAdmin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'123456Cfo'</initValue>
+      <name>PassAdmin</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
