@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RegistroParticipante</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f3ddabb-ff9e-4519-98c7-71e04a761e45</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.URL_CalidadSAP</defaultValue>
+      <description></description>
+      <id>0f762ea5-341d-41ea-93a1-bf05696acdfd</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>
