@@ -19,4 +19,14 @@
       <initValue>'123456Cfo'</initValue>
       <name>PassAdmin</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'aa-003'</initValue>
+      <name>UserLab</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'123456cfo'</initValue>
+      <name>PassLab</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

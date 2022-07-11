@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
+      <webElementGuid>a22d42b5-c5a0-418c-b2bf-138f1f79dcaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>pointer font-text login</value>
+      <webElementGuid>42fd5cc0-313f-4ba4-ac65-42ec765a2748</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Login</value>
+      <webElementGuid>3652384c-01cc-49a3-a458-b7400a4ac02f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,103 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/header[@class=&quot;app-header&quot;]/label[@class=&quot;pointer font-text login&quot;]</value>
+      <webElementGuid>f6be4001-2bd2-4bbe-a58b-b99dc582cfa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ff1a7492-9c8e-4570-8521-332d66e1f36b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer font-text login</value>
+      <webElementGuid>33690a83-f49d-4493-a3b8-49a61f56e1fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>2af597b0-57bb-4af3-ab17-71e3acbad958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/header[@class=&quot;app-header&quot;]/label[@class=&quot;pointer font-text login&quot;]</value>
+      <webElementGuid>1add614e-0f6d-4a1d-8ea5-4c4bc0a76c5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7ecdef23-dba9-4019-90f4-05c51ae20980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer font-text login</value>
+      <webElementGuid>c3336895-ddc3-426e-8574-f3432a4a5051</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>8f7c0acb-2cd1-4b0b-b267-46f69f3cd441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/header[@class=&quot;app-header&quot;]/label[@class=&quot;pointer font-text login&quot;]</value>
+      <webElementGuid>163ad606-fa3a-4de7-b4a4-fb0eaf279093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9dd53a0b-10c1-43d1-abc9-7f93ae8f064c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer font-text login</value>
+      <webElementGuid>2a280626-2fa7-436a-9254-e5471936cc9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>7ae2ca09-f31e-4b55-b30c-4a1cbd90b97a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/header[@class=&quot;app-header&quot;]/label[@class=&quot;pointer font-text login&quot;]</value>
+      <webElementGuid>c2e44613-a7c1-4d0c-963b-63b8f3c85d91</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,6 +150,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/header/label</value>
+      <webElementGuid>7b7cf9d8-98ee-44a8-9daf-ea01a34c04fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::label[1]</value>
+      <webElementGuid>d0f6b66c-414f-475f-b713-683a96c49120</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Módulos'])[1]/preceding::label[1]</value>
+      <webElementGuid>9970efc3-006b-4f44-915b-06037223756c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>a0908f55-20fc-45a3-a844-163bfdfe5c9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,5 +182,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label</value>
+      <webElementGuid>c72cf2f6-4c00-4023-be93-d19f3acb4479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>30c0e40e-21ec-4d97-a1b0-d17d559300f9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

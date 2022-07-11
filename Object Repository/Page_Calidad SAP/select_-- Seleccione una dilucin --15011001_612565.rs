@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Usuario_username</name>
+   <name>select_-- Seleccione una dilucin --15011001_612565</name>
    <tag></tag>
-   <elementGuidId>61fea4ef-20c1-49e7-adc2-89b559ba04d4</elementGuidId>
+   <elementGuidId>05cef73d-3302-4fa7-bf1b-2842586c08c5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#username</value>
+         <value>#primaryAntigenDilution</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='username']</value>
+         <value>//select[@id='primaryAntigenDilution']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,223 +21,207 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>3d32467c-0b6b-4c4d-b12c-7c284160e1dd</webElementGuid>
+      <value>select</value>
+      <webElementGuid>edeb12ed-178b-42c2-adc0-756c12b5a21e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>class</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>7162893f-65e9-4f37-9cd9-0bc1f99b1cb9</webElementGuid>
+      <value>select-input</value>
+      <webElementGuid>760ec2b4-1113-4ff0-a075-707fd3878aa4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>eebe842b-8ae2-4932-afd0-e2d7a34e269b</webElementGuid>
+      <value>primaryAntigenDilution</value>
+      <webElementGuid>3bbb06b3-2d96-4205-9e65-5775042f1063</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>3ae9e572-fdf1-4edc-8b28-cb4b613a4d3e</webElementGuid>
+      <value>primaryAntigenDilution</value>
+      <webElementGuid>326191b2-c459-450e-89e3-270aa36857f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>text</name>
       <type>Main</type>
-      <value>Su nombre de usuario</value>
-      <webElementGuid>dedf0953-3701-4827-8a9b-e2e14fc988df</webElementGuid>
+      <value>-- Seleccione una dilución --1:501:1001:2001:500Otro</value>
+      <webElementGuid>af95ab68-d2b6-4a6b-bc92-ea5929735109</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>0f69767d-09ec-40ca-b6a6-5530e9d2dc9c</webElementGuid>
+      <value>id(&quot;primaryAntigenDilution&quot;)</value>
+      <webElementGuid>03de87ee-ff3c-47cf-9815-898e75ab62ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>ea61c0c0-da82-4480-aa2e-2687312286ec</webElementGuid>
+      <value>select</value>
+      <webElementGuid>d5e5e4f6-66fb-4ecb-b9df-c42272aa8e2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>class</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>f8c85888-2b26-4593-855c-76100d4ab51d</webElementGuid>
+      <value>select-input</value>
+      <webElementGuid>2569b4ca-9757-44cd-a1d7-24ccf5ddad94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>16ba24e4-efd8-49b9-84bd-7e2eba2ed85e</webElementGuid>
+      <value>primaryAntigenDilution</value>
+      <webElementGuid>fe52deab-b6bd-452e-8def-bb50e107bb21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>00cd6aad-1307-4385-9422-41a8aa3ad335</webElementGuid>
+      <value>primaryAntigenDilution</value>
+      <webElementGuid>b1d0d372-b8c2-4c6a-8a7d-b0f1511577f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>text</name>
       <type>Main</type>
-      <value>Su nombre de usuario</value>
-      <webElementGuid>4ac3d9fa-5ad9-4cca-b17b-5fb4c28939c2</webElementGuid>
+      <value>-- Seleccione una dilución --1:501:1001:2001:500Otro</value>
+      <webElementGuid>9b034f19-66c8-4201-98ef-c6d425cfcc14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>f47560a3-9e70-498a-98a8-fbb0f4a20eb4</webElementGuid>
+      <value>id(&quot;primaryAntigenDilution&quot;)</value>
+      <webElementGuid>3126aa93-99da-467e-915b-abd03ba1e6db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>898d039e-705f-4b85-8858-c467d1f34ff8</webElementGuid>
+      <value>select</value>
+      <webElementGuid>be8ecf1e-e6e9-4104-aac7-42a22500e6b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>class</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>d17754a7-30f4-42ca-bef2-a71b43d719ed</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>username</value>
-      <webElementGuid>f686b9d9-6e2b-44b8-bff1-e84b7af8430d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>username</value>
-      <webElementGuid>46b496e3-ff6f-434c-b438-8efc99ca27f3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Su nombre de usuario</value>
-      <webElementGuid>5df1ed92-99d1-4b7c-abd6-fafe1b0f4c6a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>a8e331a3-b544-454a-b429-5f15997db4a7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>input</value>
-      <webElementGuid>75321323-f04c-4486-8fa6-7466c8d3a9f9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>63d0a131-a4b6-4373-be41-d8338999a700</webElementGuid>
+      <value>select-input</value>
+      <webElementGuid>8a678d9e-6757-4cec-97aa-1aa3c3d9d29a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>4d600928-e7b4-4284-9ea0-4283f8f7ba93</webElementGuid>
+      <value>primaryAntigenDilution</value>
+      <webElementGuid>a3380c3c-ed99-4c8d-9b1d-1ded57e0446f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>218915c4-0fcc-46e6-8e44-7b8ec9a835c9</webElementGuid>
+      <value>primaryAntigenDilution</value>
+      <webElementGuid>188f4b27-2c56-4bb5-a496-8043df7b4514</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>text</name>
       <type>Main</type>
-      <value>Su nombre de usuario</value>
-      <webElementGuid>92a6b8be-f702-4446-b170-595a4b0189c2</webElementGuid>
+      <value>-- Seleccione una dilución --1:501:1001:2001:500Otro</value>
+      <webElementGuid>1f6fbd5e-75c2-4769-b0a6-9739b7856ec7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>1ddef25a-04f1-42f2-86dc-38c58a3f8421</webElementGuid>
+      <value>id(&quot;primaryAntigenDilution&quot;)</value>
+      <webElementGuid>a6e4fb18-e6e6-482d-9268-558f4d14d34f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='username']</value>
-      <webElementGuid>e324fe0e-5e52-4d20-8760-bb7cf5ba2bcb</webElementGuid>
+      <value>//select[@id='primaryAntigenDilution']</value>
+      <webElementGuid>b8cf4ddf-4f07-4ccd-bc11-d1cbe6bb9631</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/header/div/div/div/div/form/div/input</value>
-      <webElementGuid>2393371e-5ad7-4d57-993a-9e9cc433cb6d</webElementGuid>
+      <value>//div[@id='root']/div/div[2]/form/div[2]/div[4]/select</value>
+      <webElementGuid>869ddeb5-7a16-438d-bd9b-c90dcda094fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dilución:'])[1]/following::select[1]</value>
+      <webElementGuid>dd0b3104-3ff7-4fc2-86e7-c801b13af566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marca:'])[1]/following::select[2]</value>
+      <webElementGuid>9bd029ef-b1cb-4fc7-8a0f-7d2d9e20f61d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiempo de incubación:'])[1]/preceding::select[1]</value>
+      <webElementGuid>621ba7e7-8f15-4bc0-9dba-343ebce4aeb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Temperatura:'])[1]/preceding::select[2]</value>
+      <webElementGuid>198470db-0565-4dc2-94a6-77f44214661e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>a772c6e2-b23a-4b06-9e41-3cd8f1610101</webElementGuid>
+      <value>//div[4]/select</value>
+      <webElementGuid>41619056-5e7f-482f-a11e-0f386b86c992</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'username' and @name = 'username' and @placeholder = 'Su nombre de usuario']</value>
-      <webElementGuid>2ad8e28a-0e54-4b95-af22-1e1887581982</webElementGuid>
+      <value>//select[@id = 'primaryAntigenDilution' and @name = 'primaryAntigenDilution' and (text() = '-- Seleccione una dilución --1:501:1001:2001:500Otro' or . = '-- Seleccione una dilución --1:501:1001:2001:500Otro')]</value>
+      <webElementGuid>6461b29e-69e9-4be8-b9c0-aec5744913d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
