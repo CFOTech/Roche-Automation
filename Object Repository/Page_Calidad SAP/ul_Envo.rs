@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Envo</name>
+   <tag></tag>
+   <elementGuidId>97d7a5ea-5a16-4d70-a54a-ec593acbda71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/ul/li[2]/div/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.font-text > ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>dc77f459-aafc-46b5-acd2-60ca1f890d5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Envío</value>
+      <webElementGuid>19bfa6b6-5a39-41f1-943e-df04ad95fcc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;page-container&quot;]/div[1]/div[@class=&quot;sidebar&quot;]/ul[@class=&quot;lateral-menu&quot;]/li[2]/div[@class=&quot;font-text&quot;]/ul[1]</value>
+      <webElementGuid>478f9c46-e934-4b47-8c36-0248993af94b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/ul/li[2]/div/ul</value>
+      <webElementGuid>c169631b-82aa-46f6-b3d0-d44a3162df52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::ul[1]</value>
+      <webElementGuid>60170879-d2f0-4768-91f9-f1299988d8d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resultado'])[1]/preceding::ul[1]</value>
+      <webElementGuid>4cf45ea7-ca76-4d3c-a437-5ec6bf819111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/ul</value>
+      <webElementGuid>479b6685-e1c5-4445-90a1-6558e38286df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'Envío' or . = 'Envío')]</value>
+      <webElementGuid>fee6d755-9f64-4b81-b152-f8ba1eb15d15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

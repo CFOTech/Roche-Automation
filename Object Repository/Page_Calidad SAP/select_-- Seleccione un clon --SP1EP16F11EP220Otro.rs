@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Usuario_username</name>
+   <name>select_-- Seleccione un clon --SP1EP16F11EP220Otro</name>
    <tag></tag>
-   <elementGuidId>61fea4ef-20c1-49e7-adc2-89b559ba04d4</elementGuidId>
+   <elementGuidId>5263af25-4ce1-4956-aff5-153d3b6b987f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#username</value>
+         <value>#primaryAntigenClon</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='username']</value>
+         <value>//select[@id='primaryAntigenClon']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,223 +21,207 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>3d32467c-0b6b-4c4d-b12c-7c284160e1dd</webElementGuid>
+      <value>select</value>
+      <webElementGuid>6a74934f-09a9-4f2b-a3b3-d36cacc1fee7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>class</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>7162893f-65e9-4f37-9cd9-0bc1f99b1cb9</webElementGuid>
+      <value>select-input</value>
+      <webElementGuid>b66782c8-8fcb-49da-b9a1-c759b5801ff2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>eebe842b-8ae2-4932-afd0-e2d7a34e269b</webElementGuid>
+      <value>primaryAntigenClon</value>
+      <webElementGuid>46f84968-3f4e-4984-8662-abda1d7f7956</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>3ae9e572-fdf1-4edc-8b28-cb4b613a4d3e</webElementGuid>
+      <value>primaryAntigenClon</value>
+      <webElementGuid>a1a90d25-f472-48fc-8d64-7d0d9b7aa090</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>text</name>
       <type>Main</type>
-      <value>Su nombre de usuario</value>
-      <webElementGuid>dedf0953-3701-4827-8a9b-e2e14fc988df</webElementGuid>
+      <value>-- Seleccione un clon --SP1EP16F11EP220Otro</value>
+      <webElementGuid>cb31aca2-68a8-44f7-ad36-8d9883dff805</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>0f69767d-09ec-40ca-b6a6-5530e9d2dc9c</webElementGuid>
+      <value>id(&quot;primaryAntigenClon&quot;)</value>
+      <webElementGuid>c1084a95-bc00-47da-9a39-53a2c2f574c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>ea61c0c0-da82-4480-aa2e-2687312286ec</webElementGuid>
+      <value>select</value>
+      <webElementGuid>38925ad8-f639-4537-981a-5fcf34d7e647</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>class</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>f8c85888-2b26-4593-855c-76100d4ab51d</webElementGuid>
+      <value>select-input</value>
+      <webElementGuid>8e1be003-90e5-401f-bfd9-bb1084f1dd43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>16ba24e4-efd8-49b9-84bd-7e2eba2ed85e</webElementGuid>
+      <value>primaryAntigenClon</value>
+      <webElementGuid>8bc3534b-8a24-4c92-8b6d-97a48123bbe3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>00cd6aad-1307-4385-9422-41a8aa3ad335</webElementGuid>
+      <value>primaryAntigenClon</value>
+      <webElementGuid>42e11ef7-887f-4891-8fcf-c94cb2c312a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>text</name>
       <type>Main</type>
-      <value>Su nombre de usuario</value>
-      <webElementGuid>4ac3d9fa-5ad9-4cca-b17b-5fb4c28939c2</webElementGuid>
+      <value>-- Seleccione un clon --SP1EP16F11EP220Otro</value>
+      <webElementGuid>a26fecd1-a595-40b3-8c75-5fecba3ea7d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>f47560a3-9e70-498a-98a8-fbb0f4a20eb4</webElementGuid>
+      <value>id(&quot;primaryAntigenClon&quot;)</value>
+      <webElementGuid>f03b5893-c10d-45ce-8fce-e7a3f0931350</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>898d039e-705f-4b85-8858-c467d1f34ff8</webElementGuid>
+      <value>select</value>
+      <webElementGuid>d82d11fe-976f-4758-87b5-1266d4b99b6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>class</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>d17754a7-30f4-42ca-bef2-a71b43d719ed</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>username</value>
-      <webElementGuid>f686b9d9-6e2b-44b8-bff1-e84b7af8430d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>username</value>
-      <webElementGuid>46b496e3-ff6f-434c-b438-8efc99ca27f3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Su nombre de usuario</value>
-      <webElementGuid>5df1ed92-99d1-4b7c-abd6-fafe1b0f4c6a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>a8e331a3-b544-454a-b429-5f15997db4a7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>input</value>
-      <webElementGuid>75321323-f04c-4486-8fa6-7466c8d3a9f9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>63d0a131-a4b6-4373-be41-d8338999a700</webElementGuid>
+      <value>select-input</value>
+      <webElementGuid>9f7d43a2-33a9-46cd-892d-56c6de84fdcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>4d600928-e7b4-4284-9ea0-4283f8f7ba93</webElementGuid>
+      <value>primaryAntigenClon</value>
+      <webElementGuid>bfd76c32-3e91-4bef-bd4c-c8ffb636f464</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>218915c4-0fcc-46e6-8e44-7b8ec9a835c9</webElementGuid>
+      <value>primaryAntigenClon</value>
+      <webElementGuid>7ae7d797-b825-4747-bce1-02d1b24a749b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>text</name>
       <type>Main</type>
-      <value>Su nombre de usuario</value>
-      <webElementGuid>92a6b8be-f702-4446-b170-595a4b0189c2</webElementGuid>
+      <value>-- Seleccione un clon --SP1EP16F11EP220Otro</value>
+      <webElementGuid>b094534b-75f7-41c3-8066-6211f6997877</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>1ddef25a-04f1-42f2-86dc-38c58a3f8421</webElementGuid>
+      <value>id(&quot;primaryAntigenClon&quot;)</value>
+      <webElementGuid>be30f880-4c82-43a2-8897-a32952d1048e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='username']</value>
-      <webElementGuid>e324fe0e-5e52-4d20-8760-bb7cf5ba2bcb</webElementGuid>
+      <value>//select[@id='primaryAntigenClon']</value>
+      <webElementGuid>898d18a6-2357-414d-bee7-39311f373f76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/header/div/div/div/div/form/div/input</value>
-      <webElementGuid>2393371e-5ad7-4d57-993a-9e9cc433cb6d</webElementGuid>
+      <value>//div[@id='root']/div/div[2]/form/div[2]/div[2]/select</value>
+      <webElementGuid>80d64f50-6fc4-4995-a3c6-20fd6b3cd6fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clon:'])[1]/following::select[1]</value>
+      <webElementGuid>543e96a3-6538-489e-a944-79005534b28e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anticuerpo Primario'])[1]/following::select[1]</value>
+      <webElementGuid>2e678996-5128-468c-bbfa-e5fcb83f33f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marca:'])[1]/preceding::select[1]</value>
+      <webElementGuid>d32f1fcb-8992-4fa2-9ee3-1b3dc73b0735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dilución:'])[1]/preceding::select[2]</value>
+      <webElementGuid>db3054e6-ce3a-4735-a341-c849fcf9913a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>a772c6e2-b23a-4b06-9e41-3cd8f1610101</webElementGuid>
+      <value>//div[2]/select</value>
+      <webElementGuid>501c9dea-fa20-4f89-8963-eb82b2e05228</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'username' and @name = 'username' and @placeholder = 'Su nombre de usuario']</value>
-      <webElementGuid>2ad8e28a-0e54-4b95-af22-1e1887581982</webElementGuid>
+      <value>//select[@id = 'primaryAntigenClon' and @name = 'primaryAntigenClon' and (text() = '-- Seleccione un clon --SP1EP16F11EP220Otro' or . = '-- Seleccione un clon --SP1EP16F11EP220Otro')]</value>
+      <webElementGuid>ff624cac-1f01-4f11-b6bf-72595012c887</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

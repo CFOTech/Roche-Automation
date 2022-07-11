@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
+      <webElementGuid>87a591f2-b766-4c8f-9639-96d1851d2051</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>pointer font-text my-data</value>
+      <webElementGuid>ef9d5d2c-5bba-4b3d-910b-17d66e37bdba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Logout</value>
+      <webElementGuid>64d49aff-36f6-45e0-84b7-238ab95c8d19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,39 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/header[@class=&quot;app-header&quot;]/div[1]/div[@class=&quot;colum-user&quot;]/label[@class=&quot;pointer font-text my-data&quot;]</value>
+      <webElementGuid>038560d4-f193-4e3f-bc88-d16faa5b22ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a90ed743-0554-450c-9d40-db143874a76d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer font-text my-data</value>
+      <webElementGuid>ada424e4-17a9-494b-a73e-740373987700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>9acbcf99-d1d8-43e6-bed5-e438649897bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/header[@class=&quot;app-header&quot;]/div[1]/div[@class=&quot;colum-user&quot;]/label[@class=&quot;pointer font-text my-data&quot;]</value>
+      <webElementGuid>4e54d5d9-7668-4a4c-ba61-9890869b30d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,6 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/header/div/div/label[2]</value>
+      <webElementGuid>52e0c8e1-c46f-48c3-b51b-b79db14c3cdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mis datos'])[1]/following::label[1]</value>
+      <webElementGuid>cf380186-6bc2-415d-87ef-bcb2abdbc8f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,13 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::label[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creación protocolo'])[1]/preceding::label[1]</value>
+      <webElementGuid>315ff4e5-42a8-4da5-b56b-5729a19d4fd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <webElementGuid>1d8a1595-afcb-4a74-b973-e6ce9ba77181</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,5 +118,22 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label[2]</value>
+      <webElementGuid>f3592d5f-8b0e-476d-98b1-45c3d147fd0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>7676427f-109b-440b-8526-597cc9459ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creación protocolo'])[1]/preceding::label[1]</value>
+      <webElementGuid>563e7790-1994-4bd9-8984-b133133d68a7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

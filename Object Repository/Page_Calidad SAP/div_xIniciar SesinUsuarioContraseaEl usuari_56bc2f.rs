@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_xIniciar SesinUsuarioContraseaEl usuari_56bc2f</name>
+   <tag></tag>
+   <elementGuidId>262bc254-daa4-4502-aa6d-937afdf8f677</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/header/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.popup</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>91d6bb04-5515-4212-8aa4-1d6fb87ff02a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popup</value>
+      <webElementGuid>ae62d6fb-8b32-41ac-97be-96bafce79f01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>xIniciar SesiónUsuario:Contraseña:El usuario y/o contraseña son invalidosIniciar sesiónOlvidó su contraseña? Comuniquese a calidadsap@patología.org.arAlta nuevo participante</value>
+      <webElementGuid>6f93f74f-91b7-4e2a-b174-40d09ef630f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/header[@class=&quot;app-header&quot;]/div[@class=&quot;popup&quot;]</value>
+      <webElementGuid>23c29e89-7f0c-4480-bd47-7e3f207729bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/header/div</value>
+      <webElementGuid>c73a47fe-1890-433c-82e9-dfa65adaa916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[1]</value>
+      <webElementGuid>4dd21fb2-4d01-44d4-8173-0584472d9fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div</value>
+      <webElementGuid>94ce42dd-47ff-48c9-9a3c-44db6d05d01f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'xIniciar SesiónUsuario:Contraseña:El usuario y/o contraseña son invalidosIniciar sesiónOlvidó su contraseña? Comuniquese a calidadsap@patología.org.arAlta nuevo participante' or . = 'xIniciar SesiónUsuario:Contraseña:El usuario y/o contraseña son invalidosIniciar sesiónOlvidó su contraseña? Comuniquese a calidadsap@patología.org.arAlta nuevo participante')]</value>
+      <webElementGuid>22908456-4048-421d-aab2-96219f4018e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
