@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EditarCalendario</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>997d0637-a5a8-4ccf-a83b-240fd3cc57af</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>68260bb2-4958-445f-9f90-c6bdf70cf05e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TestAutoHER2'</defaultValue>
+      <description></description>
+      <id>68260bb2-4958-445f-9f90-c6bdf70cf05e</id>
+      <masked>false</masked>
+      <name>corridaAEditar</name>
+   </variable>
+</TestCaseEntity>
