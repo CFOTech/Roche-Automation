@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btnIniciarSesion</name>
+   <name>button_Modificar</name>
    <tag></tag>
-   <elementGuidId>0ed50830-88ea-4de7-8dd7-a6ba89ca2e7a</elementGuidId>
+   <elementGuidId>47ef7757-9c96-4067-ac69-479ee521461b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[contains(text(),'Iniciar sesión')]</value>
+         <value>//button[contains(text(),'Modificar')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a566842c-de59-4230-a4eb-92c5c8e6f8d2</webElementGuid>
+      <webElementGuid>1e2db25c-5ddc-418a-a69a-dc3563067b55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary btn-block</value>
-      <webElementGuid>75631218-f33b-4522-b19e-8136c4024859</webElementGuid>
+      <webElementGuid>78321419-d28c-4ed0-a469-307622209474</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,23 +38,23 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>dd07ec57-ca24-4274-b77e-008cae88fdc9</webElementGuid>
+      <webElementGuid>db53fdb4-7f7a-4c98-b52f-ba712f3b0d8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Iniciar sesión</value>
-      <webElementGuid>06fd740c-5e82-45a0-8630-1dc1da831fd1</webElementGuid>
+      <value>Modificar</value>
+      <webElementGuid>b161b757-e092-4860-afd4-b7f54a028097</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/header[@class=&quot;app-header&quot;]/div[@class=&quot;popup&quot;]/div[@class=&quot;popup-inner&quot;]/div[@class=&quot;form-user&quot;]/div[1]/form[1]/div[@class=&quot;camp-form&quot;]/button[@class=&quot;btn btn-primary btn-block&quot;]</value>
-      <webElementGuid>75ebeb16-109a-4d3f-b93f-775dcd0c9ec2</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;popup&quot;]/div[@class=&quot;popup-inner&quot;]/div[1]/form[1]/div[@class=&quot;camp-form&quot;]/button[@class=&quot;btn btn-primary btn-block&quot;]</value>
+      <webElementGuid>0f2f4d59-9dbe-4204-b8c1-8b7cf7f4328c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,62 +62,70 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>9ae3cd65-48f9-48c4-91e5-d02814e08a04</webElementGuid>
+      <webElementGuid>2ff36fd5-7f0a-4976-878a-19cc6cd22aa2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/header/div/div/div/div/form/div[3]/button</value>
-      <webElementGuid>68bb824a-f7b8-4caa-bf8e-3944b5de89d3</webElementGuid>
+      <value>//div[@id='root']/div/div[3]/div/div/form/div[7]/button</value>
+      <webElementGuid>68b6b5dd-d458-4101-b50c-f0b8dd0cf119</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraseña:'])[1]/following::button[1]</value>
-      <webElementGuid>b2f865e1-8444-400a-805f-21e5782e5d0a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clausura de resultados:'])[1]/following::button[1]</value>
+      <webElementGuid>36b344dd-45b8-4757-8a82-42c37ae8ebd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuario:'])[1]/following::button[1]</value>
-      <webElementGuid>5056e36a-389d-4ed4-a4f7-93653a2d269a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apertura de resultados:'])[1]/following::button[1]</value>
+      <webElementGuid>b2c5e68c-f6ad-419f-95b9-3b67e1adea50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='calidadsap@patología.org.ar'])[1]/preceding::button[1]</value>
-      <webElementGuid>8abd57aa-6665-4d14-bd51-d37d43649779</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/preceding::button[1]</value>
+      <webElementGuid>1ff8bdb6-bec6-47f3-9955-89a2660e067f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alta nuevo participante'])[1]/preceding::button[1]</value>
-      <webElementGuid>95bbbe80-9642-40bb-a167-5facba68912f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sociedad Argentina de Patología. 2022.'])[1]/preceding::button[2]</value>
+      <webElementGuid>9e42f4c2-c54e-4334-9022-7bb653d3a513</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Iniciar sesión']/parent::*</value>
-      <webElementGuid>2dc1742a-0cf7-4f53-ba95-892f739adc6f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Modificar']/parent::*</value>
+      <webElementGuid>35a69099-960d-4ee7-a40a-3134d08ab652</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>02f0bb83-e305-412f-9a8b-e891a19ffd38</webElementGuid>
+      <value>//div[7]/button</value>
+      <webElementGuid>07e06241-ac46-407b-ac81-2ef5799e1eb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Modificar' or . = 'Modificar')]</value>
+      <webElementGuid>5b24ca83-4b30-4779-86b1-d92929d1d2c6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Clausura de resultados</name>
+   <tag></tag>
+   <elementGuidId>324db1ae-1670-4915-a976-3798a2d3b7d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.datepicker-input.react-datepicker-ignore-onclickoutside</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text' and ../../../../div/label])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b248f037-2424-4ab5-bf44-ee80a6ba6b07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>672447c1-209c-4183-8fe3-fea5897827e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datepicker-input react-datepicker-ignore-onclickoutside</value>
+      <webElementGuid>9ae1b3e7-c5fa-4dee-807a-76f13dc90b40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>18/07/2022</value>
+      <webElementGuid>f62c022f-c092-4aa2-8af1-bc1bdc97fbdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;popup&quot;]/div[@class=&quot;popup-inner&quot;]/div[1]/form[1]/div[@class=&quot;camp-form&quot;]/div[@class=&quot;react-datepicker-wrapper&quot;]/div[@class=&quot;react-datepicker__input-container&quot;]/input[@class=&quot;datepicker-input react-datepicker-ignore-onclickoutside&quot;]</value>
+      <webElementGuid>d946b9ed-28b8-4a58-88f3-ff83ec472b33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value='18/07/2022'])[4]</value>
+      <webElementGuid>c0fe2e73-32ed-427a-ab4c-2f8b182b94fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/form/div[6]/div/div/input</value>
+      <webElementGuid>5ad64093-6035-46d6-8ebe-399bb7e76c96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/input</value>
+      <webElementGuid>0329ea56-b9a1-48a3-969e-29d34a17ce76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>afab8e10-7ce5-47fa-970b-de4a641234a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
